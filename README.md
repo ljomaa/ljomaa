@@ -54,7 +54,7 @@ const FORBIDDEN_USERNAMES_REGEXPS =
     'teste', 'testing', 'tests','tutorial','unfollow', 'unsubscribe', 'update', 'upload', 'uploads', 'url',
    'user', 'username', 'users','version', 'yourdomain', 'yourname',
     'yoursite', 'yourusername','email','password',
-    'Firmware', 'Software', 'OTA', 'guides', 'fordpass','lincoln way','lincolnway', 'update', 'upgrade'
+    
 ];
 
 // Regex matching forbidden usernames.
